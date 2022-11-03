@@ -1,7 +1,7 @@
 # StoryBooks
  <a href="#" target="_blank">Check It Out</a>
 
-<a href="#" target="_blank"><img src="https://github.com/OrnellaTchinda/Doggos-and-Puppers/blob/8f77f20639663575dedec242370993d019fb221c/css/images/doggosAndPuppers.gif" /></a>
+https://user-images.githubusercontent.com/64944276/199650980-d5fd6201-9b4c-421e-b7b6-fe30de0862ec.mp4
 
 ### The storyBook helps you keep a summary or some importants facts about a book you liked.
 
@@ -16,3 +16,5 @@ When I improve this project, I would add the return button inside the page, crea
 ## Lessons Learned:
 
 I learned handlebars and plan to use it more.
+
+

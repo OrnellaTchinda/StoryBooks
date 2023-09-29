@@ -1,6 +1,23 @@
-p {
-    margin: 10px 0 !important;
+* {
+    font-family: 'Cormorant Garamond', serif;
 }
+
+.loginTitle {
+    font-size: 36px;
+}
+
+p {
+    margin: 14px 0 !important;
+}
+
+.sidenav li a {
+    font-size: 1.5rem;
+}
+
+.lead {
+    font-size: larger;
+}
+
 
 .login-container {
     width: 400px;

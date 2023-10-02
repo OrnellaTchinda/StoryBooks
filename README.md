@@ -1,7 +1,7 @@
 # Sayings Vault
  <a href="https://sayingsvault.onrender.com/" target="_blank">Check It Out</a>
 
-https://user-images.githubusercontent.com/64944276/199650980-d5fd6201-9b4c-421e-b7b6-fe30de0862ec.mp4
+https://github.com/OrnellaTchinda/StoryBooks/assets/64944276/f2e41dc5-b60b-4be6-b96c-2bcd80ffccc8
 
 ### The SayingsVault helps you keep a summary or some importants facts about a book you liked.
 
